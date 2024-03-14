@@ -1,0 +1,4 @@
+This repository documents a project I undertook between my sophomore and junior years in college. It involves using the Twitter API to gather information on approximately 60 million users who follow around 800 politicians from Japan and the United States. 
+The purpose was to uncover the degree of diversity in the followers of these politicians. I presented a paper titled ["Examining political diversity in Twitter followings using embedding"] (https://github.com/TatsuhitoY/Twitter-Politician-Embedding/blob/main/Examining%20political%20diversity%20in%20Twitter%20followings%20using%20embedding.pdf) at CSSJ2024.
+
+In this work, I used tools like Node2vec, TensorFlow's embedding projector, and Gephi to create a co-occurrence network of the politicians' followers, generate embeddings, and calculate the GS-score. More detailed information is available in the paper. Apologies for the low readability of the code.
